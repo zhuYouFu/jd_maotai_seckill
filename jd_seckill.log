@@ -1,0 +1,63 @@
+2021-01-07 11:44:46,175 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:314] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-01-07 11:44:46,595 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:180] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-07 11:44:47,365 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\util.py[line:196] - INFO: 邮箱未登录
+2021-01-07 11:44:47,405 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:49,436 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:51,475 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:53,515 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:55,546 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:57,591 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:44:59,632 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:01,677 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:03,716 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:05,756 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:07,799 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:09,841 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-07 11:45:11,885 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:211] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-01-07 11:45:13,929 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:214] - INFO: 已完成手机客户端确认
+2021-01-07 11:45:14,413 - 6236-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:268] - INFO: 二维码登录成功
+2021-01-07 11:45:19,153 - 13448-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:45:19,156 - 13600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:45:19,161 - 11480-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:45:19,508 - 13600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:45:19,509 - 13600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 12:59:59.500000，检测本地时间与京东服务器时间误差为【-279】毫秒
+2021-01-07 11:45:19,526 - 13448-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:45:19,527 - 13448-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 12:59:59.500000，检测本地时间与京东服务器时间误差为【-279】毫秒
+2021-01-07 11:45:19,543 - 11480-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:45:19,544 - 11480-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 12:59:59.500000，检测本地时间与京东服务器时间误差为【-279】毫秒
+2021-01-07 11:45:19,662 - 14484-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:45:19,913 - 14600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:45:20,023 - 14484-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:45:20,024 - 14484-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 12:59:59.500000，检测本地时间与京东服务器时间误差为【-279】毫秒
+2021-01-07 11:45:20,201 - 14600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:45:20,202 - 14600-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 12:59:59.500000，检测本地时间与京东服务器时间误差为【-279】毫秒
+2021-01-07 11:56:41,086 - 14400-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:56:41,095 - 6428-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:56:41,100 - 14852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:56:41,432 - 14852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:56:41,433 - 14852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-241】毫秒
+2021-01-07 11:56:41,460 - 6428-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:56:41,460 - 6428-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-241】毫秒
+2021-01-07 11:56:41,508 - 14400-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:56:41,509 - 14400-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-241】毫秒
+2021-01-07 11:56:41,529 - 9732-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:56:41,815 - 9732-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:56:41,816 - 9732-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-241】毫秒
+2021-01-07 11:56:42,025 - 14960-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:56:42,351 - 14960-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:56:42,352 - 14960-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-241】毫秒
+2021-01-07 11:59:27,689 - 11548-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:59:27,692 - 9212-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:59:27,692 - 6916-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:59:28,049 - 11548-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:59:28,049 - 11548-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
+2021-01-07 11:59:28,059 - 6916-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:59:28,059 - 6916-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
+2021-01-07 11:59:28,059 - 9212-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:59:28,059 - 9212-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
+2021-01-07 11:59:28,110 - 14856-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:59:28,199 - 2852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-07 11:59:28,339 - 14856-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:59:28,339 - 14856-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
+2021-01-07 11:59:28,484 - 2852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-07 11:59:28,484 - 2852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
