@@ -61,3 +61,33 @@
 2021-01-07 11:59:28,339 - 14856-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
 2021-01-07 11:59:28,484 - 2852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
 2021-01-07 11:59:28,484 - 2852-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-271】毫秒
+2021-01-08 09:38:08,704 - 18796-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:08,723 - 13712-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:09,361 - 21944-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:09,655 - 18796-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:09,655 - 18796-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-1136】毫秒
+2021-01-08 09:38:09,656 - 10364-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:09,836 - 13712-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:09,837 - 13712-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-1136】毫秒
+2021-01-08 09:38:09,998 - 8168-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:10,783 - 10364-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:10,784 - 10364-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-1136】毫秒
+2021-01-08 09:38:11,069 - 8168-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:11,070 - 8168-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-1136】毫秒
+2021-01-08 09:38:11,275 - 21944-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:11,276 - 21944-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 10:59:59.500000，检测本地时间与京东服务器时间误差为【-1136】毫秒
+2021-01-08 09:38:55,349 - 21220-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:55,351 - 2276-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:55,351 - 13384-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:55,649 - 13384-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:55,650 - 13384-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 09:59:59.500000，检测本地时间与京东服务器时间误差为【-1129】毫秒
+2021-01-08 09:38:55,677 - 2276-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:55,678 - 2276-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 09:59:59.500000，检测本地时间与京东服务器时间误差为【-1129】毫秒
+2021-01-08 09:38:55,691 - 21220-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:55,692 - 21220-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 09:59:59.500000，检测本地时间与京东服务器时间误差为【-1129】毫秒
+2021-01-08 09:38:55,739 - 21440-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:55,739 - 18096-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:467] - INFO: 用户:jd155453bmv
+2021-01-08 09:38:56,009 - 18096-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:56,010 - 18096-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 09:59:59.500000，检测本地时间与京东服务器时间误差为【-1129】毫秒
+2021-01-08 09:38:56,028 - 21440-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\jd_spider_requests.py[line:468] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-08 09:38:56,029 - 21440-MainThread - D:\ZYF\Project\Test\jd_maotai_seckill\timer.py[line:45] - INFO: 正在等待到达设定时间:2021-01-08 09:59:59.500000，检测本地时间与京东服务器时间误差为【-1129】毫秒
